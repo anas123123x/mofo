@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add dota8.yaml and O tests (#7394)
