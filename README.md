@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Update TFLite Docs images (#8605)
